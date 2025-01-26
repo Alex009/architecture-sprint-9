@@ -32,3 +32,7 @@
 ```
 
 и открыть http://localhost:8080/
+
+# Links
+
+- https://docs.structurizr.com/dsl/example
