@@ -28,7 +28,20 @@
 
 Для работы с исходниками C4 диаграмм запустить:
 ```
-./run-structurizr.sh
+(cd Exc3 && ./run-structurizr.sh)
+```
+
+и открыть http://localhost:8080/
+
+## Задание 4 - Передача ставок в кол-центр
+
+[Документ ADR](Exc4/ADR-call-center-rates.pages).
+
+[Roadmap](Exc4/call-center-rates-roadmap.drawio).
+
+Для работы с исходниками C4 диаграмм запустить:
+```
+(cd Exc4 && ./run-structurizr.sh)
 ```
 
 и открыть http://localhost:8080/
